@@ -185,10 +185,7 @@ body{
     border-right: 1px solid black;
 }
 
-.titulo-pc{ 
-    font-family: 'Poppins', sans-serif;
-    text-align: center;
-}
+
 
 .lista-spec{
     font-weight: 200;
@@ -208,4 +205,31 @@ body{
     width: 300px;
     border-radius: 20px;
     margin-bottom: 11px;
+}
+
+.kaka{
+    margin-left: 14px;
+    width: 95%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    
+}
+
+.conquistinhas{
+    width: 80px;
+    height: 80px;
+    border: thin solid black;
+    margin-top: 50px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.titulo-pc{ 
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
 }
